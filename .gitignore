@@ -1,0 +1,17 @@
+# GitLab Runner 設定
+runner/config/
+
+# SSL 証明書（自己署名）
+certs/
+# MySQL データボリューム
+live/mysql-data/
+test/mysql-data/
+
+# macOS システムファイル
+.DS_Store
+
+# VSCode 設定
+.vscode/
+
+# ログファイル
+*.log
